@@ -5,13 +5,13 @@
       "name": "Mark Kimsal"
     }
   ],
-  "name": "statsd-elasticsearch-backend",
-  "description": "A StatsD backend for Elasticsearch",
+  "name": "statsd-ctsdb-backend",
+  "description": "A StatsD backend for Tencent ctsdb",
   "version": "0.4.2",
-  "homepage": "https://github.com/markkimsal/statsd-elasticsearch-backend",
+  "homepage": "https://github.com/jzl1u/statsd-ctsdb-backend",
   "repository": {
     "type": "git",
-    "url": "git://github.com/markkkimsal/statsd-elasticsearch-backend.git"
+    "url": "git://github.com/jzl1u/statsd-ctsdb-backend.git"
   },
   "keywords": [
     "elasticsearch",
