@@ -1,7 +1,7 @@
-statsd-elasticsearch-backend
+statsd-ctsdb-backend
 ============================
 
-Elasticsearch backend for statsd
+Tencent ctsdb backend for statsd
 
 ## Overview
 
