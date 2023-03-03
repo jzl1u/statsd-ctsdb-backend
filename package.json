@@ -2,13 +2,12 @@
   "author": "Ramesh Perumalsamy",
   "contributors": [
     {
-      "name": "Mark Kimsal",
       "name": "jz liu"
     }
   ],
   "name": "statsd-ctsdb-backend",
   "description": "A StatsD backend for Tencent ctsdb",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "homepage": "https://github.com/jzl1u/statsd-ctsdb-backend",
   "repository": {
     "type": "git",
